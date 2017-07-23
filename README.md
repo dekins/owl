@@ -35,6 +35,8 @@ demo/demo
 
 Owl监控系统安装过程
 
+http://www.oslet.net/post/owl-monitor-system/
+
 安装过程
 (1⁄5). Install Hbase
 
